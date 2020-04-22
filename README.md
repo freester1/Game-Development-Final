@@ -3,6 +3,15 @@ Eric Crawford put together a great write up for this project! Check it out here:
 
 https://ercraw.com/talking-time
 
+## Team Members
+Thank you to everyone who has contributed, both on the team and in class!
+
+Arvin Sharma - Project, Code lead
+Eric Crawford - Art, Design lead
+Caroline Pasyanos - Design support
+Michael Lucas - Code support
+Arjun Arora - Audio tech
+Lena Wyant - Narrative support
 
 ### Technical Details
 Project for gamedev. All object classes will be put in the root dir, hopefully it won't get too crowded.
