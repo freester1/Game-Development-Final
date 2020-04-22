@@ -7,10 +7,15 @@ https://ercraw.com/talking-time
 Thank you to everyone who has contributed, both on the team and in class!
 
 Arvin Sharma - Project, Code lead
+
 Eric Crawford - Art, Design lead
+
 Caroline Pasyanos - Design support
+
 Michael Lucas - Code support
+
 Arjun Arora - Audio tech
+
 Lena Wyant - Narrative support
 
 ### Technical Details
