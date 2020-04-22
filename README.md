@@ -1,4 +1,10 @@
-## gdev
+## Talking Time - NEU Game Development
+Eric Crawford put together a great write up for this project! Check it out here:
+
+https://ercraw.com/talking-time
+
+
+### Technical Details
 Project for gamedev. All object classes will be put in the root dir, hopefully it won't get too crowded.
 
 - images in data/
