@@ -1,5 +1,5 @@
 ## Talking Time - NEU Game Development
-This is a 2D adventure game made for Northeastern's Game Development program. Produced in a single semester for GAME3800 Game Concept Development and Production.
+2D Adventure RPG developed for Northeastern's Game Development program. Features a novel text-based narrative centered around self-discovery.
 
 Eric Crawford put together a great write up on this project! Check it out here:
 
