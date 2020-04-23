@@ -1,5 +1,7 @@
 ## Talking Time - NEU Game Development
-Eric Crawford put together a great write up for this project! Check it out here:
+This is a 2D adventure game made for Northeastern's Game Development program. Produced in a single semester for GAME3800 Game Concept Development and Production.
+
+Eric Crawford put together a great write up on this project! Check it out here:
 
 https://ercraw.com/talking-time
 
