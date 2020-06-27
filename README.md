@@ -1,4 +1,4 @@
-## Talking Time - NEU Game Development
+## NEU Game Development
 2D Adventure RPG developed for Northeastern's Game Development program. Features a novel text-based narrative centered around self-discovery.
 
 Eric Crawford put together a great write up on this project! Check it out here:
